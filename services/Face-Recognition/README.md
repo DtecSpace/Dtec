@@ -1,4 +1,4 @@
-Face Recognition Service
+# Face Recognition Service
 The Face Recognition Service is an AI-powered service that can detect faces in images or video streams, recognize 
 registered users, and analyze emotions. The service uses advanced machine learning models to accurately identify faces 
 and provide relevant information about them.
